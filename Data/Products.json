@@ -1,0 +1,965 @@
+[
+    {
+        "category": "Laptop",
+        "product": "2020 Apple MacBook Air",
+        "Discription": "020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+        "discount": "13%",
+        "Price": "86990",
+        "img": "https://m.media-amazon.com/images/I/316ArzLeJ2L._SY445_SX342_QL70_FMwebp_.jpg",
+        "specs": {
+            "Brand":	"Apple",
+            "Model Name":	"MacBook Air",
+            "Screen Size":	"13 Inches",
+            "Colour":	"Space Grey",
+            "CPU Model":	"Core M Family",
+            "RAM Memory": "Installed Size 8 GB",
+            "Operating System":	"macOS 10.14 Mojave",
+            "Special Feature":	"Portable",
+            "Graphics Card Description": "Integrated",
+            "CPU Speed":	"3.1 GHz"
+        }
+    }, 
+
+
+        {
+            "category": "Laptop",
+            "product": "2022 Apple MacBook Air M2",
+            "Discription": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Midnight",
+            "discount": "7%",
+            "Price": "139990",
+            "img": "https://m.media-amazon.com/images/I/719C6bJv8jL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name":	"MacBook Air",
+                "Screen Size":	"13.6",
+                "Colour":	"Midnight",
+                "CPU Model":	"Others",
+                "RAM": "Memory Installed Size 8 GB",
+                "Operating System":	"Mac OS",
+                "Special Feature":	"Portable, Backlit Keyboard, Thin",
+                "Graphics Card Description":	"Integrated",
+                "CPU Speed":	"8"
+            }
+        },
+
+
+
+        {
+            "category": "Laptop",
+            "product": "2021 Apple MacBook Pro",
+            "Discription": "2021 Apple MacBook Pro (16-inch//41.05 cm, Apple M1 Max chip with 10 core CPU and 32 core GPU, 32GB RAM, 1TB SSD) - Space Grey",
+            "discount": "6%",
+            "Price": "309490",
+            "img": "https://m.media-amazon.com/images/I/61aUBxqc5PL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name":	"MacBook Pro",
+                "Screen Size":	"41.05 Centimetres",
+                "Colour":	"Space Grey",
+                "CPU Model":	"Apple M1",
+                "RAM": "Memory Installed Size 32 GB",
+                "Operating System":	"macOS 12 Monterey",
+                "Graphics Card Description": "32 Core GPU",
+                "CPU Speed":	"3.1 GHz",
+                "Hard Disk Description":	"SSD"
+            }
+        },
+
+
+
+        {
+            "category": "Laptop",
+            "product": "2021 Apple MacBook Pro",
+            "Discription": "2021 Apple MacBook Pro (16-inch/41.05 cm, Apple M1 Pro chip with 10 core CPU and 16 core GPU, 16GB RAM, 1TB SSD) - Silver",
+            "discount": "7%",
+            "Price": "241990",
+            "img": "https://m.media-amazon.com/images/I/61Y30DpqRVL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "MacBook Pro",
+                "Screen Size": "41.05 Centimetres",
+                "Colour": "Silver",
+                "Hard Disk": "Size 1 TB",
+                "CPU Model": "Apple M1",
+                "RAM": "Memory Installed Size 16 GB",
+                "Operating System":	"macOS 12 Monterey",
+               "Graphics Card Description":	"16 Core GPU",
+                "CPU Speed": "3.1 GHz"
+            }
+        },
+
+
+
+        {
+            "category": "Laptop",
+            "product": "2022 Apple MacBook Air",
+            "Discription": "2022 Apple MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Starlight",
+            "discount": "12%",
+            "Price": "105500",
+            "img": "https://m.media-amazon.com/images/I/710TJuHTMhL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "MacBook Air",
+                "Screen Size": "13.6 inch",
+                "Colour": "Starlight",
+                "Hard Disk": "256GB SSD",
+                "CPU Model": "Others",
+                "RAM": "Memory Installed Size 8 GB",
+                "Operating System":	"macOS",
+               "Graphics Card Description":	"Integrated",
+                "CPU Speed": "8"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 12 (64GB)",
+            "Discription": "Apple iPhone 12 (64GB) - Blue",
+            "discount": "15%",
+            "Price": "55999",
+            "img": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 12 64GB Blue",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "64 GB"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 12 (64GB)",
+            "Discription": "Apple iPhone 12 (64GB) - Black",
+            "discount": "15%",
+            "Price": "55999",
+            "img": "https://m.media-amazon.com/images/I/71fVoqRC0wL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 12 64GB Blue",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "64 GB"
+            }
+        },
+
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 12 (128GB)",
+            "Discription": "Apple iPhone 12 (128GB) - (Product) RED",
+            "discount": "14%",
+            "Price": "55999",
+            "img": "https://m.media-amazon.com/images/I/71E5zB1qbIL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 12 64GB Blue",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "64 GB"
+            }
+        },
+
+
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 12 (128GB)",
+            "Discription": "Apple iPhone 12 (128GB) - Blue",
+            "discount": "6%",
+            "Price": "69990",
+            "img": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 12 128GB Blue",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "128 GB"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 12 (128GB)",
+            "Discription": "Apple iPhone 12 (128GB) - Green",
+            "discount": "6%",
+            "Price": "69990",
+            "img": "https://m.media-amazon.com/images/I/71cQWYVtcBL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 12 128GB Blue",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "128 GB"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 12 (128GB)",
+            "Discription": "Apple iPhone 12 (128GB) - Purple",
+            "discount": "6%",
+            "Price": "69990",
+            "img": "https://m.media-amazon.com/images/I/71hIfcIPyxS._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 12 128GB Blue",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "128 GB"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 13 (128GB)",
+            "Discription": "Apple iPhone 13 (128GB) - (Product) RED",
+            "discount": "17%",
+            "Price": "65999",
+            "img": "https://m.media-amazon.com/images/I/71gm8v4uPBL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "128 GB"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 13 (128GB)",
+            "Discription": "Apple iPhone 13 (128GB) - Green",
+            "discount": "4%",
+            "Price": "76990",
+            "img": "https://m.media-amazon.com/images/I/61-r9zOKBCL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "128 GB"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 13 (256GB)",
+            "Discription": "Apple iPhone 13 (256GB) - Green",
+            "discount": "4%",
+            "Price": "76990",
+            "img": "https://m.media-amazon.com/images/I/61-r9zOKBCL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "256 GB"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 13 (256GB)",
+            "Discription": "Apple iPhone 13 (256GB) - Red",
+            "discount": "12%",
+            "Price": "69999",
+            "img": "https://m.media-amazon.com/images/I/71gm8v4uPBL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "256 GB"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 13 (256GB)",
+            "Discription": "Apple iPhone 13 (256GB) - Midnight",
+            "discount": "11%",
+            "Price": "79900",
+            "img": "https://m.media-amazon.com/images/I/61VuVU94RnL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "256 GB"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 13 (256GB)",
+            "Discription": "Apple iPhone 13 (256GB) - Starlight",
+            "discount": "11%",
+            "Price": "79900",
+            "img": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "256 GB"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 13 (512GB)",
+            "Discription": "Apple iPhone 13 (512GB) - RED",
+            "discount": "24%",
+            "Price": "83999",
+            "img": "https://m.media-amazon.com/images/I/71gm8v4uPBL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Memory Storage Capacity": "512 GB"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 128GB",
+            "Discription": "Apple iPhone 14 128GB Starlight",
+            "discount": "1%",
+            "Price": "78740",
+            "img": "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 128GB",
+            "Discription": "Apple iPhone 14 128GB Midnight",
+            "discount": "0%",
+            "Price": "79900",
+            "img": "https://m.media-amazon.com/images/I/61cwywLZR-L._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 128GB",
+            "Discription": "Apple iPhone 14 128GB - Purple",
+            "discount": "1%",
+            "Price": "78740",
+            "img": "https://m.media-amazon.com/images/I/619f09kK7tL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 128GB",
+            "Discription": "Apple iPhone 14 128GB - Red",
+            "discount": "1%",
+            "Price": "78740",
+            "img": "https://m.media-amazon.com/images/I/611mRs-imxL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 256GB",
+            "Discription": "Apple iPhone 14 256GB - Blue",
+            "discount": "1%",
+            "Price": "88740",
+            "img": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 256GB",
+            "Discription": "Apple iPhone 14 256GB - Purple",
+            "discount": "1%",
+            "Price": "88740",
+            "img": "https://m.media-amazon.com/images/I/619f09kK7tL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 256GB",
+            "Discription": "Apple iPhone 14 256GB - Red",
+            "discount": "1%",
+            "Price": "88740",
+            "img": "https://m.media-amazon.com/images/I/611mRs-imxL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 256GB",
+            "Discription": "Apple iPhone 14 256GB - Starlight",
+            "discount": "0%",
+            "Price": "89900",
+            "img": "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 512GB",
+            "Discription": "Apple iPhone 14 512GB - Starlight",
+            "discount": "1%",
+            "Price": "108780",
+            "img": "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 512GB",
+            "Discription": "Apple iPhone 14 512GB - Midnight",
+            "discount": "1%",
+            "Price": "108780",
+            "img": "https://m.media-amazon.com/images/I/61cwywLZR-L._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 512GB",
+            "Discription": "Apple iPhone 14 512GB - Blue",
+            "discount": "1%",
+            "Price": "108780",
+            "img": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 512GB",
+            "Discription": "Apple iPhone 14 512GB - Purple",
+            "discount": "1%",
+            "Price": "108780",
+            "img": "https://m.media-amazon.com/images/I/619f09kK7tL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 Pro Max 256GB",
+            "Discription": "Apple iPhone 14 Pro Max 256GB Deep Purple",
+            "discount": "0%",
+            "Price": "149900",
+            "img": "https://m.media-amazon.com/images/I/71yzJoE7WlL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Network Service Provider": "Unlocked for carriers"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 Pro Max 1TB",
+            "Discription": "Apple iPhone 14 Pro Max 1TB Silver",
+            "discount": "0%",
+            "Price": "189900",
+            "img": "https://m.media-amazon.com/images/I/61nzPMNY8zL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Network Service Provider": "Unlocked for carriers"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 Pro Max 500GB",
+            "Discription": "Apple iPhone 14 Pro Max 500GB Silver",
+            "discount": "0%",
+            "Price": "169900",
+            "img": "https://m.media-amazon.com/images/I/61nzPMNY8zL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Network Service Provider": "Unlocked for carriers"
+            }
+        },
+
+
+        {
+            "category": "Phone",
+            "product": "Apple iPhone 14 Pro Max 256GB",
+            "Discription": "Apple iPhone 14 Pro Max 256GB Deep Purple",
+            "discount": "0%",
+            "Price": "149900",
+            "img": "https://m.media-amazon.com/images/I/71yzJoE7WlL._SX679_.jpg",
+            "specs": {
+                "Brand": "Apple",
+                "Model Name": "iPhone 13",
+                "Operating System":	"iOS 14",
+                "Cellular Technology": "5G",
+                "Network Service Provider": "Unlocked for carriers"
+            }
+        },
+
+
+        {
+            "category": "Headphones",
+            "product": "boAt Nirvana 751 ANC ",
+            "Discription": "boAt Nirvana 751 ANC Hybrid Active Noise Cancelling Bluetooth Wireless Over Ear Headphones with Up to 65H Playtime, ASAP Charge, Ambient Sound Mode, Immersive Sound, Carry Pouch(Gunmetal Grey)",
+            "discount": "50%",
+            "Price": "3999",
+            "img": "https://m.media-amazon.com/images/I/71ISIssoVFL._SX679_.jpg",
+            "specs": {
+                "Brand": "boat",
+                "Model Name": "Nirvanaa 751 ANC",
+                "Colour": "Gunmetal grey",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Bluetooth 5.0"
+            }
+        },
+
+        {
+            "category": "Headphones",
+            "product": "boAt Nirvana 751 ANC",
+            "Discription": "boAt Nirvana 751 ANC Hybrid Active Noise Cancelling Bluetooth Wireless Over Ear Headphones with Up to 65H Playtime, ASAP Charge, Ambient Sound Mode, Immersive Sound, Carry Pouch with mic (Bold Blue)",
+            "discount": "50%",
+            "Price": "3999",
+            "img": "https://m.media-amazon.com/images/I/71XP2ScwtFL._SX679_.jpg",
+            "specs": {
+                "Brand": "boat",
+                "Model Name": "Nirvanaa 751 ANC",
+                "Colour": "Bold Blue",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Bluetooth 5.0"
+            }
+        },
+
+
+
+        {
+            "category": "Headphones",
+            "product": "boAt Nirvana 751 ANC",
+            "Discription": "boAt Nirvana 751 ANC Hybrid Active Noise Cancelling Bluetooth Wireless Over Ear Headphones with Up to 65H Playtime, ASAP Charge, Ambient Sound Mode, Immersive Sound, Carry Pouch(Silver Sterling)",
+            "discount": "56%",
+            "Price": "3499",
+            "img": "https://m.media-amazon.com/images/I/61PCjNryx2L._SX679_.jpg",
+            "specs": {
+                "Brand": "boat",
+                "Model Name": "Nirvanaa 751 ANC",
+                "Colour": "Sterling Silver",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Bluetooth 5.0"
+            }
+        },
+
+
+        {
+            "category": "Headphones",
+            "product": "Sony WH-CH710N Active Noise Cancelling Wireless Headphones",
+            "Discription": "Sony WH-CH710N Active Noise Cancelling Wireless Headphones Bluetooth Over The Ear Headset with Mic for Phone-Call, 35Hrs Battery Life, Aux, Quick Charge and Google Assistant Support for Mobiles -Blue",
+            "discount": "57%",
+            "Price": "6390",
+            "img": "https://m.media-amazon.com/images/I/61rEoEQqn0L._SX679_.jpg",
+            "specs": {
+                "Brand": "Sony",
+                "Model Name": "WH-CH710N",
+                "Colour": "Blue",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Wireless, Bluetooth 5.0"
+            }
+        },
+
+
+        {
+            "category": "Headphones",
+            "product": "Sony WH-CH710N Active Noise Cancelling Wireless Headphones",
+            "Discription": "Sony WH-CH710N Active Noise Cancelling Wireless Headphones Bluetooth Over The Ear Headset with Mic for Phone-Call, 35Hrs Battery Life, Aux, Quick Charge and Google Assistant Support for Mobiles -Black",
+            "discount": "50%",
+            "Price": "7490",
+            "img": "https://m.media-amazon.com/images/I/61rEoEQqn0L._SX679_.jpg",
+            "specs": {
+                "Brand": "Sony",
+                "Model Name": "WH-CH710N",
+                "Colour": "Black",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Wireless, Bluetooth 5.0"
+            }
+        },
+
+
+        {
+            "category": "Headphones",
+            "product": "JBL Tune 760NC",
+            "Discription": "JBL Tune 760NC, Wireless Over Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, Pure Bass, Dual Pairing, AUX & Voice Assistant Support for Mobile Phones (Black)",
+            "discount": "33%",
+            "Price": "5390",
+            "img": "https://m.media-amazon.com/images/I/61HXCeozUjL._SX679_.jpg",
+            "specs": {
+                "Brand": "JBL",
+                "Model Name": "Tune",
+                "Colour": "Black",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Bluetooth 5.0"
+            }
+        },
+
+        {
+            "category": "Headphones",
+            "product": "JBL Tune 760NC",
+            "Discription": "JBL Tune 760NC, Over Ear ANC Wireless Headphones with Mic, up to 50 Hours Playtime, Pure Bass, Google Fast Pair, Dual Pairing, AUX & Voice Assistant Support for Mobile Phones (Blue)",
+            "discount": "31%",
+            "Price": "5498",
+            "img": "https://m.media-amazon.com/images/I/71qaMjzEWsL._SX679_.jpg",
+            "specs": {
+                "Brand": "JBL",
+                "Model Name": "Tune",
+                "Colour": "Blue",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Bluetooth 5.0"
+            }
+        },
+
+        {
+            "category": "Headphones",
+            "product": "ZEBRONICS Zeb",
+            "Discription": "ZEBRONICS Zeb-Thunder Wireless Bluetooth Over The Ear Headphone, FM, mSD, 9 hrs Playback with Mic (Blue)",
+            "discount": "57%",
+            "Price": "599",
+            "img": "https://m.media-amazon.com/images/I/81lLGM7SKbL._SX679_.jpg",
+            "specs": {
+                "Brand": "Zebronics",
+                "Model Name": "ZEB-Thunder",
+                "Colour": "Blue",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Wireless, Wired"
+            }
+        },
+
+
+        {
+            "category": "Headphones",
+            "product": "ZEBRONICS Zeb",
+            "Discription": "ZEBRONICS Zeb-Thunder Bluetooth Wireless Over Ear Headphone FM, mSD, 9 hrs Playback with Mic (Black)",
+            "discount": "57%",
+            "Price": "599",
+            "img": "https://m.media-amazon.com/images/I/81lLGM7SKbL._SX679_.jpg",
+            "specs": {
+                "Brand": "Zebronics",
+                "Model Name": "ZEB-Thunder",
+                "Colour": "Black",
+                "Form Factor": "Over Ear",
+                "Connector Type": "Wireless, Wired"
+            }
+        },
+
+
+
+        {
+            "category": "Chargers",
+            "product": "Artis AR-45W-MG2 45 Watts",
+            "Discription": "Artis AR-45W-MG2 45 Watts MG2 Laptop Adapter/Charger Compatible with MB Air 13” & MB Air 11” (14.5 V, 3.1 A) Connector: MG2 (T Tip Connector)",
+            "discount": "51%",
+            "Price": "1699",
+            "img": "https://m.media-amazon.com/images/I/31b3aOr6HrL.jpg",
+            "specs": {
+                "Brand": "Artis",
+                "Model Name": "Artis",
+                "Compatible Devices": "Air (11-inch, Early 2015) , Air (13-inch, Early 2015), Air (11-inch, Early 2014) ,Air (13-inch, Early 2014) , Air (11-inch, Mid 2013) , Air (13-inch, Mid 2013) , Air (11-inch, Mid 2012) , Air (13-inch, Mid 2012)",
+                "Colour": "White",
+                "wattage": "45 watts"
+            }
+        },
+
+
+        {
+            "category": "Chargers",
+            "product": "Justec 45W Replacement Charger",
+            "Discription": "Justec 45W Replacement Charger for MacBook Air 11 13 - A1435, A1436, A1465, A1466 - T Shape",
+            "discount": "51%",
+            "Price": "1699",
+            "img": "https://m.media-amazon.com/images/I/31b3aOr6HrL.jpg",
+            "specs": {
+                "Brand": "Justec",
+                "Compatible Devices": "Laptops",
+                "Wattage":	"45 Watts",
+                "Power Source":	"Corded Electric"
+            }
+        },
+
+
+
+        {
+            "category": "Chargers",
+            "product": "Apple 67W USB-C",
+            "Discription": "Apple 67W USB-C Power Adapter (for MacBook)",
+            "discount": "2%",
+            "Price": "5800",
+            "img": "https://m.media-amazon.com/images/I/51euVORJLFL._SX679_.jpg",
+            "specs": {
+                "Brand":	"Apple",
+                "Connectivity Technology":	"USB",
+                "Connector Type":	"USB 3.0",
+                "Compatible Devices":	"Laptops",
+                "Included Components":	"Apple 67W USB-C Power, Adapter (for MacBook)",
+                "Colour":	"White",
+                "Total": "USB Ports 1",
+                "Number of Items":	"1",
+                "Power Source":	"Corded Electric",
+                "Item Weight":	"0.31 Kilograms"
+            }
+        },
+
+
+        {
+            "category": "GoPro",
+            "product": "GoPro HERO10 Black ",
+            "Discription": "Apple 67W USB-C Power Adapter (for MacBook)",
+            "discount": "29%",
+            "Price": "38900",
+            "img": "https://m.media-amazon.com/images/I/51c15x1d4zL._SX679_.jpg",
+            "specs": {
+                "Brand":	"GoPro",
+                "Connector Type":	"Bluetooth, Wi-Fi, USB",
+                "Flash Memory Type":	"Micro SD",
+                "Special Feature":	"Waterproof, Low Light",
+                "Screen Size":	"2.27 Inches",
+                "Optical Zoom":	"1 x",
+                "Photo Sensor": "Technology CMOS",
+                "Camcorder type":	"Action Camera",
+                "Model Name":	"‎CHDHX-101-RW",
+                "Mounting Hardware":	"Gopro Camera, Battery, USB Cable"
+            }
+        },
+
+        {
+            "category": "GoPro",
+            "product": "GoPro HERO11",
+            "Discription": "GoPro HERO11 Waterproof Action Camera with Front + Rear LCD Screens, 5.3K60 Ultra HD Video, Hypersmooth Resolution, 27MP Photos, 1080p Live Streaming with Enduro Battery, Black, Digital Zoom",
+            "discount": "7%",
+            "Price": "47999",
+            "img": "https://m.media-amazon.com/images/I/617sGSjmC1L._SX679_.jpg",
+            "specs": {
+                "Brand":	"GoPro",
+                "Connector Type":	"USB",
+                "Flash Memory Type":	"Micro SD",
+                "Special Feature":	"Waterproof",
+                "Screen Size":	"1.4 Inches",
+                "Photo Sensor": "Technology CMOS",
+                "Camcorder type":	"Action Camera",
+                "Model Name":	"GoPro Hero11 Action Camera",
+                "Video Capture Resolution":	"1080p, 4K"
+            }
+        },
+
+        {
+            "category": "GoPro",
+            "product": "GoPro HERO10",
+            "Discription": "GoPro HERO10 Action Camera with Free Swivel Clip, Digital, Battery & Shorty Tripod (Waterproof, Front & Rear Dual Screen, 5.3K60 Ultra HD Video, 23MP Photos), (CHDRB-101-CN+BAT+Tripod) Black",
+            "discount": "30%",
+            "Price": "43800",
+            "img": "https://m.media-amazon.com/images/I/617sGSjmC1L._SX679_.jpg",
+            "specs": {
+                "Brand":	"GoPro",
+                "Connector Type":	"Bluetooth, WIFI, USB",
+                "Flash Memory Type":	"SD",
+                "Special Feature":	"Anti-Shake, Time Lapse, Low Light",
+                "Screen Size":	"1.4 Inches",
+                "Photo Sensor": "Technology CMOS",
+                "Camcorder type":	"Action Camera",
+                "Model Name":	"CHDRB-101-CN+BAT+TRIPOD"
+            }
+        },
+
+
+
+        {
+            "category": "GoPro",
+            "product": "GoPro MAX Action Camera",
+            "Discription": "GoPro MAX Action Camera, Optical Zoom (Black)",
+            "discount": "3%",
+            "Price": "51490",
+            "img": "https://m.media-amazon.com/images/I/71OpKoQrnUL._SX679_.jpg",
+            "specs": {
+                "Brand":	"GoPro",
+                "Connector Type":	"Bluetooth, WIFI, USB",
+                "Flash Memory Type":	"CompactFlash",
+                "colour": "Black",
+                "Special Feature":	"Time-Lapse",
+                "Screen Size":	"1.95 Inches",
+                "Camcorder type":	"Action Camera",
+                "Model Name":	"MAX"
+            }
+        },
+
+
+        {
+            "category": "Accessories",
+            "product": "Spigen EZ Fit Tempered Glass",
+            "Discription": "Spigen EZ Fit Tempered Glass Screen Protector for iPhone 14 Pro Max - 2 Pack (Sensor Protection)",
+            "discount": "66%",
+            "Price": "99",
+            "img": "https://m.media-amazon.com/images/I/612gg6L2qmL._SX679_.jpg",
+            "specs": {
+                "Brand": "Spigen",
+                "Compatible Devices": "Cellphone",
+                "Material": "Glass",
+                "Item Hardness": "9H",
+                "Compatible Phone Models": "iPhone 14 Pro Max",
+                "Special Feature": "9H Surface Hardness",
+                "Finish Type": "Glossy",
+                "Net Quantity": "2.00 count",
+                "Screen Size": "6.7 Inches",
+                "Screen Surface": "Description Smooth"
+            }
+        },
+
+
+        {
+            "category": "Accessories",
+            "product": "Anti-Scratch 9H Tempered Glass Camera Cover Screen Protector ",
+            "Discription": "CoverGallery PremiumHD+ iPhone 14 Pro/iPhone 14 Pro Max Camera Lens Protector, [Keep Lens Original Design] Anti-Scratch 9H Tempered Glass Camera Cover Screen Protector Metal Ring Accessories (3 PEICES) - Purple",
+            "discount": "71%",
+            "Price": "288",
+            "img": "https://m.media-amazon.com/images/I/61tZ+cURF3L._SX679_.jpg",
+            "specs": {
+                "Brand": "Spigen",
+                "Compatible Devices": "Camera"
+            }
+        },
+
+
+        {
+            "category": "Accessories",
+            "product": "LYXMAD Dual 3.5mm Headphone Jack & Charge Splitter",
+            "Discription": "LYXMAD Dual 3.5mm Headphone Jack & Charge Splitter Auxiliary Adapter Compatible with All i-Phone 11/12/13/ XS/ MAX / XR/ i-Pad Earphone Charging / Call / Volume Control (Music or Call)",
+            "discount": "20%",
+            "Price": "399",
+            "img": "https://m.media-amazon.com/images/I/51Ng4YR9jqL._SX679_.jpg",
+            "specs": {
+                "Compatible Devices": "SE 2020 13 13 mini 12 12mini 12pro 11 11pro 11pro Max X XS XS MAX XR 8 8Plus 7 7 Plus 6 6 Plus 5 All iOS 6 6 Plus",
+                "Connector Type": "Auxiliary, Lightning"
+            }
+        },
+
+        {
+            "category": "Accessories",
+            "product": "USB C Hub",
+            "Discription": "USB C Hub, iSkey Adapter USB C Dongle for MacBook Pro, 6 in 1 USB C to HDMI Multiport Adapter Compatible with USB C Laptops and Other Type C Devices (4K HDMI USB3.0/2.0 SD/TF Card Reader 60W PD)",
+            "discount": "57%",
+            "Price": "1299",
+            "img": "https://m.media-amazon.com/images/I/61a6SnR33kL._SX679_.jpg",
+            "specs": {
+                "Brand": "iSkey",
+                "Colour": "Sliver",
+                "Hardware Interface": "USB Type C",
+                "Compatible Devices": "Card Readers",
+                "Number of Ports": "6"
+            }
+        },
+
+
+        {
+            "category": "Accessories",
+            "product": "STRIFF Adjustable Laptop Tabletop Stand",
+            "Discription": "STRIFF Adjustable Laptop Tabletop Stand Patented Riser Ventilated Portable Foldable Compatible with MacBook Notebook Tablet Tray Desk Table Book with Free Phone Stand (Black)",
+            "discount": "74%",
+            "Price": "384",
+            "img": "https://m.media-amazon.com/images/I/71Zf9uUp+GL._SX679_.jpg",
+            "specs": {
+                "Brand": "STRIFF",
+                "Colour": "Black",
+                "Compatible Devices": "Laptops",
+                "Compatible Phone Models": "Universal",
+                "Mounting Type": "Tabletop"
+            }
+        }
+
+
+
+]
